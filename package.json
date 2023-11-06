@@ -5,7 +5,8 @@
     "readline-sync": "^1.4.10",
     "ts-node": "^10.9.1",
     "tsc": "^2.0.4",
-    "typescript": "^5.2.2"
+    "typescript": "^5.2.2",
+    "validator": "^13.11.0"
   },
   "name": "softex---vsc",
   "version": "1.0.0",
@@ -17,5 +18,8 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "@types/validator": "^13.11.5"
+  }
 }
