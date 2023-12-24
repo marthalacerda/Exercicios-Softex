@@ -1,0 +1,23 @@
+GET http://localhost:3000/livros/2
+
+###
+POST http://localhost:3000/livros
+Content-Type: application/json
+
+{
+  "titulo": "Portugol pra iniciantes",
+  "autor": "Jane Smith"
+}
+
+###
+PUT http://localhost:3000/livros/1
+Content-Type: application/json
+
+{
+  "titulo": "Padrões de projeto",
+  "autor": "Eric Freeman"
+}
+
+###
+DELETE http://localhost:3000/livros/1
+
