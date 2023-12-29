@@ -1,0 +1,14 @@
+
+1) Nessa consulta obtemos todos os elementos da tabela, todos os produtos com todos os atributos designados para cada um.
+
+2) Essa consulta nos faz alterar os nomes que aparecerão nas colunas, e melhora muito na legibilidade dos dados para quem não entende a tabela.
+
+3) Agora conseguimos filtrar por valores acima de 100 reais, e só vemos os dados que queremos.
+
+4) O order by consegue ordenar por valores, e organiza de forma a deixar melhor a percepção do usuário quanto aos produtos.
+
+5) Aqui conseguimos agregar a compreensão estatistica geral das transações, com média, valores máximo e mínimo e número total de transações. Isso gera novos dados para gerar novos relatórios.
+
+6) Conseguimos analisar média de valor para cada produto, agrupando as ocorrências.
+
+7) A consulta combinada por categoria consegue gerar um relatório com dados agrupados, com média e soma de valores, e quantidade de ocorrência. Um relatório poderoso por conseguir detalhar especificamente os dados de forma requisitada. Fundamental para uma análise mais robusta de uma base de dados.
